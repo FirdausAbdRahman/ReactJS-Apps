@@ -1,5 +1,4 @@
-# FreeCodeCamp Project: ReactJS Markdown Previewer
-One of the projects that I've developed from FreeCodeCamp's Front-End Libraries curriculum. 
+Welcome to my ReactJS Apps repo !
 
-Credit: Dylan Israel 
-https://www.youtube.com/watch?v=N7Mrj0WrvnM
+This repo contains compilation of my projects using ReactJS. I believe the only way to be good at something is to practice doing it.
+So, I studied & followed along ReactJS tutorials from multiple sources such as freeCodeCamp.org & Youtube, in order to get myself used to this powerful JavaScript library.
