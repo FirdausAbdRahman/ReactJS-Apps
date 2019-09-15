@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: burlywood;
+}
+
+.app{
+    font-family: sans-serif;
+    width: 550px;
+    height: 300px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 3px solid chocolate;
+    text-align: center;
+    background: white;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 35px;
+    font-weight: bold;
+    color: chocolate;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.button{
+    padding: 1px;
+    margin-left: 10px;
+}
+
+.result{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    text-align: center;
+}
