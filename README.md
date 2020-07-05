@@ -9,4 +9,5 @@ List of Projects (tutorial):
 3. Weather App (https://www.youtube.com/watch?v=204C9yNeOYI&t=28s)
 4. Recipe App (https://www.youtube.com/watch?v=U9T6YkEDkMo&t=541s)
 5. Multi-Step Form (https://www.youtube.com/watch?v=zT62eVxShsY&t=6s)
+6. Tic Tac Toe Game (https://www.youtube.com/watch?v=08r9mDQvXpU)
 
