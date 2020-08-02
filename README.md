@@ -10,4 +10,5 @@ List of Projects (tutorial):
 4. Recipe App (https://www.youtube.com/watch?v=U9T6YkEDkMo&t=541s)
 5. Multi-Step Form (https://www.youtube.com/watch?v=zT62eVxShsY&t=6s)
 6. Tic Tac Toe Game (https://www.youtube.com/watch?v=08r9mDQvXpU)
+7. Advanced Dropdown Menu (https://www.youtube.com/watch?v=IF6k0uZuypA&t=627s)
 
